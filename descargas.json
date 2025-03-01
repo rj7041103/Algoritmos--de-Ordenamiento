@@ -1,0 +1,44 @@
+[
+  {
+    "url": "https://www.shopify.com",
+    "tamano": 100,
+    "fecha_inicio": "2024-10-12 14:30:00",
+    "estado": "completada"
+  },
+  {
+    "url": "https://wordpress.com",
+    "tamano": 150,
+    "fecha_inicio": "2024-10-11 13:10:00",
+    "estado": "en_progreso"
+  },
+  {
+    "url": "https://juncotic.com/wp-content/uploads/2020/07/ordenamiento.png",
+    "tamano": 250,
+    "fecha_inicio": "2024-10-13 10:00:00",
+    "estado": "pendiente"
+  },
+  {
+    "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhso1x3KQf5kWdHXnCcj3QAEOk8-z9VYfsn173tKhsA7xxGvUz1HxdzJTd9axRh16Fu2ZvmdERKrrtQqXWu6MuE2vihaC6lZS64L7F0v5lmc9RSk7c7Ow_JvsYUpHb8piXkpzZ9LmaXlnZd/s1600/agentes-basados-en-busqueda.png",
+    "tamano": 50,
+    "fecha_inicio": "2024-10-14 09:15:00",
+    "estado": "en_progreso"
+  },
+  {
+    "url": "https://diegoamorin.com/wp-content/uploads/2022/08/ordenamiento-seleccion-python.png",
+    "tamano": 300,
+    "fecha_inicio": "2024-10-10 08:00:00",
+    "estado": "cancelada"
+  },
+  {
+    "url": "https://www.bancodevenezuela.com/index.html",
+    "tamano": 20,
+    "fecha_inicio": "2024-10-14 11:00:00",
+    "estado": "completada"
+  },
+  {
+    "url": "http://example.com/file6.zip",
+    "tamano": 500,
+    "fecha_inicio": "2024-10-15 07:30:00",
+    "estado": "pendiente"
+  }
+]
